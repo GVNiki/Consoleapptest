@@ -1,0 +1,204 @@
+{
+  "version": 3,
+  "targets": {
+    "UAP,Version=v10.0.17763": {
+      "Windowsapplictaionbatch3/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Windowsapplictaionbatch3.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Windowsapplictaionbatch3.dll": {}
+        }
+      }
+    },
+    "UAP,Version=v10.0.17763/win10-arm": {
+      "Windowsapplictaionbatch3/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Windowsapplictaionbatch3.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Windowsapplictaionbatch3.dll": {}
+        }
+      }
+    },
+    "UAP,Version=v10.0.17763/win10-arm-aot": {
+      "Windowsapplictaionbatch3/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Windowsapplictaionbatch3.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Windowsapplictaionbatch3.dll": {}
+        }
+      }
+    },
+    "UAP,Version=v10.0.17763/win10-arm64-aot": {
+      "Windowsapplictaionbatch3/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Windowsapplictaionbatch3.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Windowsapplictaionbatch3.dll": {}
+        }
+      }
+    },
+    "UAP,Version=v10.0.17763/win10-x64": {
+      "Windowsapplictaionbatch3/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Windowsapplictaionbatch3.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Windowsapplictaionbatch3.dll": {}
+        }
+      }
+    },
+    "UAP,Version=v10.0.17763/win10-x64-aot": {
+      "Windowsapplictaionbatch3/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Windowsapplictaionbatch3.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Windowsapplictaionbatch3.dll": {}
+        }
+      }
+    },
+    "UAP,Version=v10.0.17763/win10-x86": {
+      "Windowsapplictaionbatch3/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Windowsapplictaionbatch3.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Windowsapplictaionbatch3.dll": {}
+        }
+      }
+    },
+    "UAP,Version=v10.0.17763/win10-x86-aot": {
+      "Windowsapplictaionbatch3/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Windowsapplictaionbatch3.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Windowsapplictaionbatch3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Windowsapplictaionbatch3/1.0.0": {
+      "type": "project",
+      "path": "../Windowsapplictaionbatch3/Windowsapplictaionbatch3.csproj",
+      "msbuildProject": "../Windowsapplictaionbatch3/Windowsapplictaionbatch3.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "UAP,Version=v10.0.17763": [
+      "Windowsapplictaionbatch3 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\nikitha.gv\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\nikitha.gv\\source\\repos\\ConsoleAppBatch3\\Windowsapplictaionbatch3\\Windowsapplictaionbatch3 (Package)\\Windowsapplictaionbatch3 (Package).wapproj",
+      "projectName": "Windowsapplictaionbatch3 (Package)",
+      "projectPath": "C:\\Users\\nikitha.gv\\source\\repos\\ConsoleAppBatch3\\Windowsapplictaionbatch3\\Windowsapplictaionbatch3 (Package)\\Windowsapplictaionbatch3 (Package).wapproj",
+      "packagesPath": "C:\\Users\\nikitha.gv\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nikitha.gv\\source\\repos\\ConsoleAppBatch3\\Windowsapplictaionbatch3\\Windowsapplictaionbatch3 (Package)\\obj\\",
+      "projectStyle": "PackageReference",
+      "UsingMicrosoftNETSdk": false,
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\nikitha.gv\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net451"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "uap10.0.17763": {
+          "targetAlias": "net451",
+          "projectReferences": {
+            "C:\\Users\\nikitha.gv\\source\\repos\\ConsoleAppBatch3\\Windowsapplictaionbatch3\\Windowsapplictaionbatch3\\Windowsapplictaionbatch3.csproj": {
+              "projectPath": "C:\\Users\\nikitha.gv\\source\\repos\\ConsoleAppBatch3\\Windowsapplictaionbatch3\\Windowsapplictaionbatch3\\Windowsapplictaionbatch3.csproj"
+            }
+          }
+        }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "uap10.0.17763": {
+        "targetAlias": "net451",
+        "imports": [
+          "net8.0-windows10.0.22621",
+          "netcoreapp3.1",
+          "netcoreapp3.0",
+          "netcoreapp2.0",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481",
+          "net10.0-windows10.0.22621",
+          "net461"
+        ],
+        "assetTargetFallback": true,
+        "warn": true
+      }
+    },
+    "runtimes": {
+      "win10-arm": {
+        "#import": []
+      },
+      "win10-arm-aot": {
+        "#import": []
+      },
+      "win10-arm64-aot": {
+        "#import": []
+      },
+      "win10-x64": {
+        "#import": []
+      },
+      "win10-x64-aot": {
+        "#import": []
+      },
+      "win10-x86": {
+        "#import": []
+      },
+      "win10-x86-aot": {
+        "#import": []
+      }
+    }
+  }
+}

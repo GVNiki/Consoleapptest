@@ -1,0 +1,14 @@
+C:\Users\nikitha.gv\source\repos\ConsoleAppBatch3\ConsoleApp1Try\bin\Debug\net8.0\ConsoleApp1Try.exe
+C:\Users\nikitha.gv\source\repos\ConsoleAppBatch3\ConsoleApp1Try\bin\Debug\net8.0\ConsoleApp1Try.deps.json
+C:\Users\nikitha.gv\source\repos\ConsoleAppBatch3\ConsoleApp1Try\bin\Debug\net8.0\ConsoleApp1Try.runtimeconfig.json
+C:\Users\nikitha.gv\source\repos\ConsoleAppBatch3\ConsoleApp1Try\bin\Debug\net8.0\ConsoleApp1Try.dll
+C:\Users\nikitha.gv\source\repos\ConsoleAppBatch3\ConsoleApp1Try\bin\Debug\net8.0\ConsoleApp1Try.pdb
+C:\Users\nikitha.gv\source\repos\ConsoleAppBatch3\ConsoleApp1Try\obj\Debug\net8.0\ConsoleApp1Try.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikitha.gv\source\repos\ConsoleAppBatch3\ConsoleApp1Try\obj\Debug\net8.0\ConsoleApp1Try.AssemblyInfoInputs.cache
+C:\Users\nikitha.gv\source\repos\ConsoleAppBatch3\ConsoleApp1Try\obj\Debug\net8.0\ConsoleApp1Try.AssemblyInfo.cs
+C:\Users\nikitha.gv\source\repos\ConsoleAppBatch3\ConsoleApp1Try\obj\Debug\net8.0\ConsoleApp1Try.csproj.CoreCompileInputs.cache
+C:\Users\nikitha.gv\source\repos\ConsoleAppBatch3\ConsoleApp1Try\obj\Debug\net8.0\ConsoleApp1Try.dll
+C:\Users\nikitha.gv\source\repos\ConsoleAppBatch3\ConsoleApp1Try\obj\Debug\net8.0\refint\ConsoleApp1Try.dll
+C:\Users\nikitha.gv\source\repos\ConsoleAppBatch3\ConsoleApp1Try\obj\Debug\net8.0\ConsoleApp1Try.pdb
+C:\Users\nikitha.gv\source\repos\ConsoleAppBatch3\ConsoleApp1Try\obj\Debug\net8.0\ConsoleApp1Try.genruntimeconfig.cache
+C:\Users\nikitha.gv\source\repos\ConsoleAppBatch3\ConsoleApp1Try\obj\Debug\net8.0\ref\ConsoleApp1Try.dll

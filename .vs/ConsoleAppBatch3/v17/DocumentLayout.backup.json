@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nikitha.gv\\source\\repos\\ConsoleAppBatch3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7342F5-C102-4094-9258-B6396C843C81}|WebApplicationLogin\\WebApplicationLogin.csproj|c:\\users\\nikitha.gv\\source\\repos\\consoleappbatch3\\webapplicationlogin\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B7342F5-C102-4094-9258-B6396C843C81}|WebApplicationLogin\\WebApplicationLogin.csproj|solutionrelative:webapplicationlogin\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7342F5-C102-4094-9258-B6396C843C81}|WebApplicationLogin\\WebApplicationLogin.csproj|c:\\users\\nikitha.gv\\source\\repos\\consoleappbatch3\\webapplicationlogin\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0B7342F5-C102-4094-9258-B6396C843C81}|WebApplicationLogin\\WebApplicationLogin.csproj|solutionrelative:webapplicationlogin\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7342F5-C102-4094-9258-B6396C843C81}|WebApplicationLogin\\WebApplicationLogin.csproj|c:\\users\\nikitha.gv\\source\\repos\\consoleappbatch3\\webapplicationlogin\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0B7342F5-C102-4094-9258-B6396C843C81}|WebApplicationLogin\\WebApplicationLogin.csproj|solutionrelative:webapplicationlogin\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7342F5-C102-4094-9258-B6396C843C81}|WebApplicationLogin\\WebApplicationLogin.csproj|c:\\users\\nikitha.gv\\source\\repos\\consoleappbatch3\\webapplicationlogin\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0B7342F5-C102-4094-9258-B6396C843C81}|WebApplicationLogin\\WebApplicationLogin.csproj|solutionrelative:webapplicationlogin\\dashboard.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7342F5-C102-4094-9258-B6396C843C81}|WebApplicationLogin\\WebApplicationLogin.csproj|c:\\users\\nikitha.gv\\source\\repos\\consoleappbatch3\\webapplicationlogin\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B7342F5-C102-4094-9258-B6396C843C81}|WebApplicationLogin\\WebApplicationLogin.csproj|solutionrelative:webapplicationlogin\\register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7342F5-C102-4094-9258-B6396C843C81}|WebApplicationLogin\\WebApplicationLogin.csproj|c:\\users\\nikitha.gv\\source\\repos\\consoleappbatch3\\webapplicationlogin\\forgot.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B7342F5-C102-4094-9258-B6396C843C81}|WebApplicationLogin\\WebApplicationLogin.csproj|solutionrelative:webapplicationlogin\\forgot.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B7342F5-C102-4094-9258-B6396C843C81}|WebApplicationLogin\\WebApplicationLogin.csproj|c:\\users\\nikitha.gv\\source\\repos\\consoleappbatch3\\webapplicationlogin\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B7342F5-C102-4094-9258-B6396C843C81}|WebApplicationLogin\\WebApplicationLogin.csproj|solutionrelative:webapplicationlogin\\dashboard.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EBD7BBF-AA83-4B81-8E6B-072850555A55}|WebApplicationPrac\\WebApplicationPrac.csproj|c:\\users\\nikitha.gv\\source\\repos\\consoleappbatch3\\webapplicationprac\\loginpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6EBD7BBF-AA83-4B81-8E6B-072850555A55}|WebApplicationPrac\\WebApplicationPrac.csproj|solutionrelative:webapplicationprac\\loginpage.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A835E823-E467-4B8F-A2C6-0528A05FBEF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\nikitha.gv\\source\\repos\\consoleappbatch3\\webapplication1\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A835E823-E467-4B8F-A2C6-0528A05FBEF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A835E823-E467-4B8F-A2C6-0528A05FBEF5}|WebApplication1\\WebApplication1.csproj|c:\\users\\nikitha.gv\\source\\repos\\consoleappbatch3\\webapplication1\\bootstrapexternal.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A835E823-E467-4B8F-A2C6-0528A05FBEF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\bootstrapexternal.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A835E823-E467-4B8F-A2C6-0528A05FBEF5}|WebApplication1\\WebApplication1.csproj|C:\\Users\\nikitha.gv\\source\\repos\\ConsoleAppBatch3\\webapplication1\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A835E823-E467-4B8F-A2C6-0528A05FBEF5}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "dashboard.js",
+              "DocumentMoniker": "C:\\Users\\nikitha.gv\\source\\repos\\ConsoleAppBatch3\\WebApplicationLogin\\dashboard.js",
+              "RelativeDocumentMoniker": "WebApplicationLogin\\dashboard.js",
+              "ToolTip": "C:\\Users\\nikitha.gv\\source\\repos\\ConsoleAppBatch3\\WebApplicationLogin\\dashboard.js",
+              "RelativeToolTip": "WebApplicationLogin\\dashboard.js",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-18T07:33:01.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "auth.js",
+              "DocumentMoniker": "C:\\Users\\nikitha.gv\\source\\repos\\ConsoleAppBatch3\\WebApplicationLogin\\auth.js",
+              "RelativeDocumentMoniker": "WebApplicationLogin\\auth.js",
+              "ToolTip": "C:\\Users\\nikitha.gv\\source\\repos\\ConsoleAppBatch3\\WebApplicationLogin\\auth.js",
+              "RelativeToolTip": "WebApplicationLogin\\auth.js",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-06-18T07:32:30.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\nikitha.gv\\source\\repos\\ConsoleAppBatch3\\WebApplicationLogin\\style.css",
+              "RelativeDocumentMoniker": "WebApplicationLogin\\style.css",
+              "ToolTip": "C:\\Users\\nikitha.gv\\source\\repos\\ConsoleAppBatch3\\WebApplicationLogin\\style.css",
+              "RelativeToolTip": "WebApplicationLogin\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-18T07:31:57.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dashboard.html",
+              "DocumentMoniker": "C:\\Users\\nikitha.gv\\source\\repos\\ConsoleAppBatch3\\WebApplicationLogin\\dashboard.html",
+              "RelativeDocumentMoniker": "WebApplicationLogin\\dashboard.html",
+              "ToolTip": "C:\\Users\\nikitha.gv\\source\\repos\\ConsoleAppBatch3\\WebApplicationLogin\\dashboard.html",
+              "RelativeToolTip": "WebApplicationLogin\\dashboard.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-18T07:31:28.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "forgot.html",
+              "DocumentMoniker": "C:\\Users\\nikitha.gv\\source\\repos\\ConsoleAppBatch3\\WebApplicationLogin\\forgot.html",
+              "RelativeDocumentMoniker": "WebApplicationLogin\\forgot.html",
+              "ToolTip": "C:\\Users\\nikitha.gv\\source\\repos\\ConsoleAppBatch3\\WebApplicationLogin\\forgot.html",
+              "RelativeToolTip": "WebApplicationLogin\\forgot.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-18T07:30:59.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "register.html",
+              "DocumentMoniker": "C:\\Users\\nikitha.gv\\source\\repos\\ConsoleAppBatch3\\WebApplicationLogin\\register.html",
+              "RelativeDocumentMoniker": "WebApplicationLogin\\register.html",
+              "ToolTip": "C:\\Users\\nikitha.gv\\source\\repos\\ConsoleAppBatch3\\WebApplicationLogin\\register.html",
+              "RelativeToolTip": "WebApplicationLogin\\register.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-18T07:30:33.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\nikitha.gv\\source\\repos\\ConsoleAppBatch3\\WebApplicationLogin\\index.html",
+              "RelativeDocumentMoniker": "WebApplicationLogin\\index.html",
+              "ToolTip": "C:\\Users\\nikitha.gv\\source\\repos\\ConsoleAppBatch3\\WebApplicationLogin\\index.html",
+              "RelativeToolTip": "WebApplicationLogin\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-18T07:30:00.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginPage.html",
+              "DocumentMoniker": "C:\\Users\\nikitha.gv\\source\\repos\\ConsoleAppBatch3\\WebApplicationPrac\\LoginPage.html",
+              "RelativeDocumentMoniker": "WebApplicationPrac\\LoginPage.html",
+              "ToolTip": "C:\\Users\\nikitha.gv\\source\\repos\\ConsoleAppBatch3\\WebApplicationPrac\\LoginPage.html",
+              "RelativeToolTip": "WebApplicationPrac\\LoginPage.html",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAUwFUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-18T06:52:31.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "bootstrapexternal.css",
+              "DocumentMoniker": "C:\\Users\\nikitha.gv\\source\\repos\\ConsoleAppBatch3\\WebApplication1\\bootstrapexternal.css",
+              "RelativeDocumentMoniker": "WebApplication1\\bootstrapexternal.css",
+              "ToolTip": "C:\\Users\\nikitha.gv\\source\\repos\\ConsoleAppBatch3\\WebApplication1\\bootstrapexternal.css",
+              "RelativeToolTip": "WebApplication1\\bootstrapexternal.css",
+              "ViewState": "AgIAAIABAAAAAAAAAAAAAIoBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-18T06:38:19.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\nikitha.gv\\source\\repos\\ConsoleAppBatch3\\WebApplication1\\index.html",
+              "RelativeDocumentMoniker": "WebApplication1\\index.html",
+              "ToolTip": "C:\\Users\\nikitha.gv\\source\\repos\\ConsoleAppBatch3\\WebApplication1\\index.html",
+              "RelativeToolTip": "WebApplication1\\index.html",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-06-17T11:35:58.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Style.css",
+              "DocumentMoniker": "C:\\Users\\nikitha.gv\\source\\repos\\ConsoleAppBatch3\\WebApplication1\\Style.css",
+              "RelativeDocumentMoniker": "WebApplication1\\Style.css",
+              "ToolTip": "C:\\Users\\nikitha.gv\\source\\repos\\ConsoleAppBatch3\\WebApplication1\\Style.css",
+              "RelativeToolTip": "WebApplication1\\Style.css",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAEwBEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-17T11:36:54.949Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

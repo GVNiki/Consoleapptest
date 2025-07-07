@@ -1,0 +1,14 @@
+C:\Users\nikitha.gv\source\repos\ConsoleAppBatch3\ConsolePractise\bin\Debug\net8.0\ConsolePractise.exe
+C:\Users\nikitha.gv\source\repos\ConsoleAppBatch3\ConsolePractise\bin\Debug\net8.0\ConsolePractise.deps.json
+C:\Users\nikitha.gv\source\repos\ConsoleAppBatch3\ConsolePractise\bin\Debug\net8.0\ConsolePractise.runtimeconfig.json
+C:\Users\nikitha.gv\source\repos\ConsoleAppBatch3\ConsolePractise\bin\Debug\net8.0\ConsolePractise.dll
+C:\Users\nikitha.gv\source\repos\ConsoleAppBatch3\ConsolePractise\bin\Debug\net8.0\ConsolePractise.pdb
+C:\Users\nikitha.gv\source\repos\ConsoleAppBatch3\ConsolePractise\obj\Debug\net8.0\ConsolePractise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikitha.gv\source\repos\ConsoleAppBatch3\ConsolePractise\obj\Debug\net8.0\ConsolePractise.AssemblyInfoInputs.cache
+C:\Users\nikitha.gv\source\repos\ConsoleAppBatch3\ConsolePractise\obj\Debug\net8.0\ConsolePractise.AssemblyInfo.cs
+C:\Users\nikitha.gv\source\repos\ConsoleAppBatch3\ConsolePractise\obj\Debug\net8.0\ConsolePractise.csproj.CoreCompileInputs.cache
+C:\Users\nikitha.gv\source\repos\ConsoleAppBatch3\ConsolePractise\obj\Debug\net8.0\ConsolePractise.dll
+C:\Users\nikitha.gv\source\repos\ConsoleAppBatch3\ConsolePractise\obj\Debug\net8.0\refint\ConsolePractise.dll
+C:\Users\nikitha.gv\source\repos\ConsoleAppBatch3\ConsolePractise\obj\Debug\net8.0\ConsolePractise.pdb
+C:\Users\nikitha.gv\source\repos\ConsoleAppBatch3\ConsolePractise\obj\Debug\net8.0\ConsolePractise.genruntimeconfig.cache
+C:\Users\nikitha.gv\source\repos\ConsoleAppBatch3\ConsolePractise\obj\Debug\net8.0\ref\ConsolePractise.dll

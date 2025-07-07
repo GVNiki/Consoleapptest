@@ -1,0 +1,11 @@
+C:\Users\nikitha.gv\source\repos\ConsoleAppBatch3\ClassLibrary2\bin\Debug\net8.0\ClassLibrary2.deps.json
+C:\Users\nikitha.gv\source\repos\ConsoleAppBatch3\ClassLibrary2\bin\Debug\net8.0\ClassLibrary2.dll
+C:\Users\nikitha.gv\source\repos\ConsoleAppBatch3\ClassLibrary2\bin\Debug\net8.0\ClassLibrary2.pdb
+C:\Users\nikitha.gv\source\repos\ConsoleAppBatch3\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikitha.gv\source\repos\ConsoleAppBatch3\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.AssemblyInfoInputs.cache
+C:\Users\nikitha.gv\source\repos\ConsoleAppBatch3\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.AssemblyInfo.cs
+C:\Users\nikitha.gv\source\repos\ConsoleAppBatch3\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\nikitha.gv\source\repos\ConsoleAppBatch3\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.dll
+C:\Users\nikitha.gv\source\repos\ConsoleAppBatch3\ClassLibrary2\obj\Debug\net8.0\refint\ClassLibrary2.dll
+C:\Users\nikitha.gv\source\repos\ConsoleAppBatch3\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.pdb
+C:\Users\nikitha.gv\source\repos\ConsoleAppBatch3\ClassLibrary2\obj\Debug\net8.0\ref\ClassLibrary2.dll
